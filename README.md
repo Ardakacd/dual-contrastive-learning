@@ -26,7 +26,7 @@ pip install torchmetrics
 pip install pillow
 ```
 
-You can go to the KidCalculation.ipynb file and run the cell
+You can go to the KidCalculation.ipynb file and run the cell with the desired image paths.
 
 
 ## Structural similarity index measure (SSIM) calculation
@@ -36,4 +36,4 @@ Installation using pip:
 pip install pillow
 ```
 
-You can go to the SSIM Calculation.ipynb file and run the cell
+You can go to the SSIM Calculation.ipynb file and run the cell with the desired image paths.
