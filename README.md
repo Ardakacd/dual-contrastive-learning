@@ -16,3 +16,24 @@ To compute the FID score between two datasets, where images of each dataset are 
 ```
 python -m pytorch_fid path/to/dataset1 path/to/dataset2
 ```
+
+
+## Kernel inception distance (KID) calculation
+
+Installation using pip:
+```
+pip install torchmetrics
+pip install pillow
+```
+
+You can go to the KidCalculation.ipynb file and run the cell
+
+
+## Structural similarity index measure (SSIM) calculation
+
+Installation using pip:
+```
+pip install pillow
+```
+
+You can go to the SSIM Calculation.ipynb file and run the cell
