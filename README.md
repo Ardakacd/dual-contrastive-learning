@@ -10,6 +10,7 @@ README section of the repository is pretty clear yet, we're including the necess
 Installation using pip:
 ```
 pip install pytorch-fid
+pip install --user scipy==1.11.1
 ```
 
 To compute the FID score between two datasets, where images of each dataset are contained in an individual folder:
